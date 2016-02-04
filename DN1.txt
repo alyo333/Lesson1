@@ -1,0 +1,9 @@
+Cloudkit- framework ki omogoča API-jem dostop do iClouda
+CoreTelephony- framework ki omogoča dostop do informacij o operaterju
+HomeKit- framework za povezavo z domačimi homekit napravami
+PassKit- framework za uerjanje vozovnic na naši napravi v aplikaciji wallet
+
+Emulator- naredi identično okolje sistema, uporabla se, ko nas zanima kaj sistem naredi
+Simulator- oponaša okolje sistema, uporabljamo ga ko nas zanima kako sistem to naredi
+
+Animacije se uporabljajo za zamotenje uporabnika, ko se nekaj nalaga
